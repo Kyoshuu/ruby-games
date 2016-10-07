@@ -1,0 +1,15 @@
+      Welcome to MASTERMIND!
+Your mission is to guess what code
+game has generated. You have 12 chances
+to do it.
+
+Board Explanation:
+p => numbers in good position
+c => good numbers(not in good position)
+
+Controls:
+[1-4] [1-6] - First part is for selecting
+    position, second part to select number
+    you want guess ex. "1 6"
+confirm - Confirms your choice
+exit - Ends game
